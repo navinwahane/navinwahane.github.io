@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Calligraffitti|Open+Sans');
+
+body{
+    margin: 0;
+    /* height: 100%;
+    width: 100%; */
+    margin: 0 auto;
+    padding: 50px;
+    background-image: url(11.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1 {
+    font-family: 'Calligraffitti';
+}
+
